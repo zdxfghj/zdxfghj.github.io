@@ -1,0 +1,32 @@
+#drupal-live-announce {
+    height: 0;
+}
+
+.local-tasks {
+    padding-top: 10px;
+}
+
+.local-tasks li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.local-tasks li > a{
+    color: #00AD21;
+}
+
+#block-views-block-insights-block-1 .views-exposed-form {
+    display: none;
+}
+
+.ajax-progress-throbber .throbber {
+    background: url("../img/loader.gif") no-repeat center center;
+}
+
+.messages a {
+    text-decoration: underline;
+}
+
+.td-none:hover {
+    text-decoration: none;
+}
